@@ -1,1 +1,4 @@
-# Actividad-Cliente-servidor-con-socket-Node.js-Socket.io-
+# ActividadCliente-servidor
+Integrantes: 
+#1: Jader manuel Moré.
+#2: Luis Negrete Cabrales.
